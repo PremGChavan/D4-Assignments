@@ -1,5 +1,5 @@
 import { Heart, MessageCircle, Share2 } from "lucide-react";
-import "../app.css";
+
 const MovieCard = ({ movie }) => {
   return (
     <div className="rounded-2xl shadow-md bg-zinc-900 text-white p-4 flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
